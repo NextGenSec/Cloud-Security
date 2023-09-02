@@ -24,11 +24,11 @@ Explore our repository to find in-depth articles, tools, and projects covering v
 
 ## Getting Started
 
-To dive into Cloud Security:
+To dive into this repo:
 
 1. Browse the [Wiki](../../wiki) for comprehensive articles and guides.
 2. Check out the [Projects](../../projects) section for hands-on security projects and tools.
 
 ---
 
-Thank you for visiting CloudSecHub! We hope this repository serves as a valuable resource for enhancing your cloud security knowledge and practices. If you have questions or suggestions, please open an issue or start a discussion. Together, we'll strengthen cloud security.
+Thank you for visiting the Cloud Security repo! We hope this repository serves as a valuable resource for enhancing your cloud security knowledge and practices. If you have questions or suggestions, please open an issue or start a discussion. Together, we'll strengthen cloud security.
