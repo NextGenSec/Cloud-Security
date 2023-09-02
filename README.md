@@ -1,12 +1,12 @@
-# CloudSecHub
+# Cloud Security
 
 ![Cloud Security](https://github.com/NextGenSec/CloudSecurityHub/assets/143881320/b8318323-4e64-4221-8039-2647440bfb4d)
 
-Welcome to CloudSecHub! This repository is your hub for comprehensive cloud security insights, tools, and best practices.
+Welcome to the Clud Security repo! This repository is your hub for comprehensive cloud security insights, projects, and best practices.
 
 ## Introduction
 
-As organizations increasingly migrate workloads to the cloud, ensuring data and application security is paramount. CloudSecHub simplifies the complexities of cloud security and provides practical guidance to mitigate risks effectively.
+As organizations increasingly migrate workloads to the cloud, ensuring data and application security is paramount. THis repo simplifies the complexities of cloud security and provides practical guidance to mitigate risks effectively.
 
 ## Key Topics
 
@@ -24,7 +24,7 @@ Explore our repository to find in-depth articles, tools, and projects covering v
 
 ## Getting Started
 
-To dive into CloudSecHub:
+To dive into Cloud Security:
 
 1. Browse the [Wiki](../../wiki) for comprehensive articles and guides.
 2. Check out the [Projects](../../projects) section for hands-on security projects and tools.
