@@ -1,7 +1,6 @@
 # CloudSecHub
 
-![Cloud Security](![NGS (2)](https://github.com/NextGenSec/CloudSecurityHub/assets/143881320/b8318323-4e64-4221-8039-2647440bfb4d)
-)
+(https://github.com/NextGenSec/CloudSecurityHub/assets/143881320/b8318323-4e64-4221-8039-2647440bfb4d))
 
 Welcome to CloudSecHub! This repository is your hub for comprehensive cloud security insights, tools, and best practices.
 
